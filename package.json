@@ -1,5 +1,5 @@
 {
-  "name": "cancard",
+  "name": "nextjs-auth",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -34,9 +34,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "tailwind-merge": "^2.3.0",
-    "tailwindcss-animate": "^1.0.7",
-    "viem": "2.x",
-    "wagmi": "^2.10.9"
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@types/node": "^20",
